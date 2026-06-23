@@ -110,7 +110,12 @@ Periféricos Adicionais:
 
 Após a compilação do código "proj_2_final.c", indexado acima, temos o seguinte resultado no MikroC Pro for PIC: 
 
-Com a compilação concluída com sucesso, o circuito completo pode ser testado com o seguinte circuito no SimulIde. Nota-se que para a simulação do sensor LM35 foi utilizado um potencômetro que permite a variação da tensão fornecida à porta A0 do PIC8F4550.
+<img width="996" height="147" alt="proj_2_final_1" src="https://github.com/user-attachments/assets/cbea21b1-5368-4d26-ac08-cd9acfd3954c" />
+
+Com a compilação concluída com sucesso, o circuito completo pode ser testado com o seguinte circuito no SimulIde: 
+
+> (Nota-se que para a simulação do sensor LM35 foi utilizado um potencômetro que permite a variação da tensão fornecida à porta A0 do PIC8F4550)
+
 <img width="907" height="632" alt="proj2_simul" src="https://github.com/user-attachments/assets/59d686be-0429-486a-b009-5bf2ae2d069d" />
 
 
