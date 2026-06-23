@@ -1,4 +1,4 @@
-# Temporizador de Duplo Modo com Monitoramento de Temperatura (PIC18F)
+# Temporizador de Duplo Modo com Monitoramento de Temperatura (PIC18F4550)
 
 > Projeto de sistemas embarcados utilizando microcontrolador PIC18F4550 para controle de temporização dupla (10s e 60s) via interrupções externas, com monitoramento de temperatura em tempo real via sensor LM35 e exibição em display LCD 16x2.
 
